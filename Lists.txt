@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/he
 https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/DandelionSprout-AntiMalwareHosts.fork.txt
 https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/phishing.txt
 https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/reported-by-norton.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/sefinek.hosts1.txt
+https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/sefinek.hosts.txt
 https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/sefinek.hosts2.txt
 https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/suspicious.txt
 https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/suspicious.txt
