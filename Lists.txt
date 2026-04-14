@@ -75,7 +75,6 @@ https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/head
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/FadeMind/add-2o7Net.fork.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/MajkiIT/adguard-host.fork.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/MajkiIT/easy-privacy-host.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/cbuijs/adult-domains-24733.fork.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList-Liste-FR.fork.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList.fork.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/hagezi/pro.fork.txt
@@ -126,11 +125,6 @@ https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/head
 PIRACY:
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/piracy/sefinek.hosts.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/piracy/blocklistproject/piracy.fork.txt
-
-ANIME:
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/anime/main.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/anime/myanimelist.net.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/anime/shinden.pl.txt
 
 DATING SERVICES:
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/dating-services/sefinek.hosts.txt
@@ -202,14 +196,6 @@ https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/head
 LGBTQI+:
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/lgbtqplus2.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/lgbtqplus.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/lgbtqia.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/lgbtqia-domains.txt
 
 SPORTS:
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/esport.txt
-
-NEWS:
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/news-media.txt
-
-PRODUCTIVITY? Google Docs, Office365, Slack, Zoom, Trello, Notion, and others.
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/productivity.txt
