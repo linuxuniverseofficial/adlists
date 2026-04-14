@@ -1,223 +1,215 @@
 
 >>> MUST HAVE <<<
-
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/abuse/urlhaus.abuse.ch/hostfile.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/abuse/blocklistproject/hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/dead-domains/jarelllama/dead-domains.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/drugs/blocklistproject/drugs.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/fakenews/StevenBlack/hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/fakenews/marktron/hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/fraud/blocklistproject/hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/hate-and-junk/sefinek.hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/hate-and-junk/developerdan/extended.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/phishing/sefinek.hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/phishing/blocklistproject/phishing.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/phishing/RPiList/Phishing-Angriffe.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/phishing/phishing.army/blocklist-extended.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/phishing/Dogino/Discord-Phishing-URLs-phishing.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ransomware/blocklistproject/ransomware.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/redirect/blocklistproject/redirect.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/scam/ShadowWhisperer/scam.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/scam/blocklistproject/scam.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/scam/durablenapkin/scamblocklist.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/scam/jarelllama/scam.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/scam/sefinek.hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/scam/Dogino/Discord-Phishing-URLs-scam.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/suspicious/FadeMind/add-Risk.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/suspicious/sefinek.hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/suspicious/firebog/w3kbl.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/useless-websites/jarelllama/parked-domains.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/useless-websites/sefinek.hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/spam/stopforumspam/toxic-domains-whole.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/spam/FadeMind/add-Spam.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/spam/RPiList/spam-mails.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/AssoEchap/stalkerware-indicators.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/DandelionSprout-AntiMalwareHosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/phishing.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/reported-by-norton.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/sefinek.hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/sefinek.hosts2.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/suspicious.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/suspicious.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/suspicious.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/web-attacks.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/quidsup/notrack-malware.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/blocklistproject/malware.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/RPiList/Malware.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/ShadowWhisperer/malware.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/Spam404/main-blacklist.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/bigdargon/hostsVN.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/digitalside/latestdomains.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/disconnectme/simple-malvertising.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/malicious/malware-filter/urlhaus-filter-hosts-online.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/abuse/urlhaus.abuse.ch/hostfile.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/abuse/blocklistproject/hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/dead-domains/jarelllama/dead-domains.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/drugs/blocklistproject/drugs.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/fakenews/StevenBlack/hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/fakenews/marktron/hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/fraud/blocklistproject/hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/hate-and-junk/sefinek.hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/hate-and-junk/developerdan/extended.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/phishing/sefinek.hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/phishing/blocklistproject/phishing.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/phishing/RPiList/Phishing-Angriffe.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/phishing/phishing.army/blocklist-extended.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/phishing/Dogino/Discord-Phishing-URLs-phishing.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ransomware/blocklistproject/ransomware.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/redirect/blocklistproject/redirect.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/scam/ShadowWhisperer/scam.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/scam/blocklistproject/scam.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/scam/durablenapkin/scamblocklist.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/scam/jarelllama/scam.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/scam/sefinek.hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/scam/Dogino/Discord-Phishing-URLs-scam.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/suspicious/FadeMind/add-Risk.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/suspicious/sefinek.hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/suspicious/firebog/w3kbl.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/useless-websites/jarelllama/parked-domains.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/useless-websites/sefinek.hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/spam/stopforumspam/toxic-domains-whole.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/spam/FadeMind/add-Spam.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/spam/RPiList/spam-mails.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/AssoEchap/stalkerware-indicators.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/DandelionSprout-AntiMalwareHosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/phishing.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/reported-by-norton.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/sefinek.hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/web-attacks.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/quidsup/notrack-malware.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/blocklistproject/malware.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/RPiList/Malware.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/ShadowWhisperer/malware.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/Spam404/main-blacklist.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/bigdargon/hostsVN.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/digitalside/latestdomains.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/disconnectme/simple-malvertising.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/malicious/malware-filter/urlhaus-filter-hosts-online.fork.txt
 
 AntiIA:
 https://raw.githubusercontent.com/Stevoisiak/Stevos-GenAI-Blocklist/refs/heads/main/GenAI-Blocklist.txt
 
 ADS:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/sefinek.hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/0Zinc/easylist.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/FadeMind/UncheckyAds.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/ShadowWhisperer/Ads.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/adaway/hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/anudeepND/adservers.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/blocklistproject/youtube.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/blocklistproject/hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/craiu/mobiletrackers.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/crazy-max/spy.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/disconnectme/simple-ad.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/firebog/Prigent-Ads.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/firebog/AdguardDNS.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/firebog/Admiral.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/firebog/Easylist.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/jerryn70/GoodbyeAds.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/kboghdady/youtubelist.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/r-a-y/AdguardMobileAds.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/yoyo/ads-trackers-etc.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/DandelionSprout.GameConsoleAdblockList.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/0Zinc/easylist.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/FadeMind/UncheckyAds.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/ShadowWhisperer/Ads.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/adaway/hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/anudeepND/adservers.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/blocklistproject/youtube.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/blocklistproject/hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/craiu/mobiletrackers.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/crazy-max/spy.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/disconnectme/simple-ad.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/firebog/Prigent-Ads.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/firebog/AdguardDNS.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/firebog/Admiral.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/firebog/Easylist.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/jerryn70/GoodbyeAds.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/kboghdady/youtubelist.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/r-a-y/AdguardMobileAds.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/yoyo/ads-trackers-etc.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/DandelionSprout.GameConsoleAdblockList.txt
 
 EXTENSIONS:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/r-a-y/AdguardMobileSpyware.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/FadeMind/add-2o7Net.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/MajkiIT/adguard-host.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/MajkiIT/easy-privacy-host.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/cbuijs/adult-domains-24733.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList-Liste-FR.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/hagezi/pro.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/justdomains/adguarddns-justdomains.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/notracking/hostnames.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/oisd/big.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/extensions/r-a-y/AdguardApps.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/r-a-y/AdguardMobileSpyware.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/FadeMind/add-2o7Net.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/MajkiIT/adguard-host.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/MajkiIT/easy-privacy-host.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/cbuijs/adult-domains-24733.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList-Liste-FR.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/hagezi/pro.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/justdomains/adguarddns-justdomains.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/notracking/hostnames.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/oisd/big.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/r-a-y/AdguardApps.fork.txt
 
 TRCKING:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/tracking-and-telemetry/quidsup/trackers-hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/tracking-and-telemetry/ShadowWhisperer/tracking.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/tracking-and-telemetry/ente-dev/tv.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/tracking-and-telemetry/neodevpro/host.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/tracking-and-telemetry/ShadowWhisperer/tracking.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/tracking-and-telemetry/ente-dev/tv.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/tracking-and-telemetry/frogeye/firstparty-trackers-hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/tracking-and-telemetry/neodevpro/host.fork.txt
 
 CRYPTO AND BETS:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/crypto/cryptojacking/zerodot1/CoinBlockerLists-hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/crypto/cryptojacking/Snota418/Crypto-streams.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/crypto/cryptojacking/firebog/Prigent/Crypto.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/crypto/cryptojacking/hoshsadiq/adblock-nocoin-list.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/crypto/sefinek.hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/gambling/sefinek.hosts2.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/gambling/MajkiIT/gambling-hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/gambling/StevenBlack/hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/gambling/TrustPositif/gambling-indonesia.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/gambling/blocklistproject/hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/gambling/sefinek.hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/crypto/cryptojacking/Snota418/Crypto-streams.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/crypto/cryptojacking/firebog/Prigent/Crypto.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/crypto/cryptojacking/hoshsadiq/adblock-nocoin-list.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/crypto/sefinek.hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/gambling/sefinek.hosts2.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/gambling/MajkiIT/gambling-hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/gambling/StevenBlack/hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/gambling/TrustPositif/gambling-indonesia.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/gambling/blocklistproject/hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/gambling/sefinek.hosts.txt
 
 PORN:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/porn/sefinek.hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/porn/sefinek.hosts2.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/porn/4skinSkywalker/hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/porn/ShadowWhisperer/adult.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/porn/Sinfonietta/pornography-hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/porn/StevenBlack/porn.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/porn/blocklistproject/porn.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/porn/oisd/nsfw.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/sefinek.hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/sefinek.hosts2.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/4skinSkywalker/hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/ShadowWhisperer/adult.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/Sinfonietta/pornography-hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/StevenBlack/porn.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/blocklistproject/porn.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/oisd/nsfw.fork.txt
 
 >>> OTHERS <<<
 
 SMARTV:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/ads/MajkiIT/SmartTV-ads.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/MajkiIT/SmartTV-ads.fork.txt
 
 AMP:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/amp/ente-dev/google-amp-hosts.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/amp/developerdan/amp-hosts-extended.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/amp/ente-dev/google-amp-hosts.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/amp/developerdan/amp-hosts-extended.fork.txt
 
 PIRACY:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/piracy/sefinek.hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/piracy/blocklistproject/piracy.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/piracy/sefinek.hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/piracy/blocklistproject/piracy.fork.txt
 
 ANIME:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/anime/main.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/anime/myanimelist.net.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/anime/shinden.pl.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/anime/main.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/anime/myanimelist.net.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/anime/shinden.pl.txt
 
 DATING SERVICES:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/dating-services/sefinek.hosts.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/dating-services/ShadowWhisperer/dating.fork.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/dating-services/developerdan/extended.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/dating-services/sefinek.hosts.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/dating-services/ShadowWhisperer/dating.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/dating-services/developerdan/extended.fork.txt
 
 WHATSAPP:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/apps/whatsapp.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/apps/whatsapp.txt
 
 STEAM:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/apps/steam.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/apps/steam-extended.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/apps/steam.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/apps/steam-extended.txt
 
 RIOT GAMES:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/riotgames.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/riotgames.txt
 
 GAMES:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/games/league-of-legends.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/games/all-valve-games.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/games/valorant.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/gamebanana.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/games/league-of-legends.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/games/all-valve-games.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/games/valorant.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/gamebanana.txt
 
 TWITTER/X:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/social/twitter.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/social/twitter.txt
 
 TIKTOK:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/social/tiktok.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/social/tiktok.txt
 
 SNAPCHAT:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/social/snapchat.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/social/snapchat.txt
 
 INSTAGRAM:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/social/instagram.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/social/instagram.txt
 
 FACEBOOK:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/social/facebook.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/social/facebook.txt
 
 DISCORD:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/apps/discord.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/apps/discord.txt
 
 SPOTIFY:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/apps/spotify.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/apps/spotify.txt
 
 SKYPE:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/apps/skype.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/apps/skype.txt
 
 YOUTUBE:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/youtube.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/youtube-extended.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/youtube.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/youtube-extended.txt
 
 STREAMING SERVICES:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/streaming-media.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/streaming-media.txt
 
 SOCIAL MEDIA:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/social-media.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/social-media.txt
 
 SHOPPING ONLINE:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/shopping.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/shopping.txt
 
 PIXIV:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/pixiv.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/pixiv.txt
 
 PINTEREST:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/pinterest.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/pinterest.txt
 
 PATREON:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/patreon.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/patreon.txt
 
 LGBTQI+:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/lgbtqplus2.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/lgbtqplus.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/lgbtqia.txt
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/lgbtqia-domains.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/lgbtqplus2.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/lgbtqplus.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/lgbtqia.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/lgbtqia-domains.txt
 
 SPORTS:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/esport.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/esport.txt
 
 NEWS:
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/news-media.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/news-media.txt
 
 PRODUCTIVITY? Google Docs, Office365, Slack, Zoom, Trello, Notion, and others.
-https://raw.githubusercontent.com/sefinek24/Sefinek-Blocklist-Collection/refs/heads/main/blocklists/generated/0.0.0.0/sites/productivity.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/sites/productivity.txt
