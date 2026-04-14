@@ -1,41 +1,34 @@
 #!/bin/bash
 
-# URL da lista mestre
 MASTER_LIST="https://raw.githubusercontent.com/linuxuniverseofficial/adlists/refs/heads/main/Lists.txt"
 
-echo "--- Baixando lista de URLs de: $MASTER_LIST ---"
+echo "--- Obtendo e filtrando URLs de: $MASTER_LIST ---"
 
-# Baixa o conteúdo e armazena em uma variável, removendo espaços em branco ou caracteres invisíveis (\r)
-URLS=$(curl -s "$MASTER_LIST" | tr -d '\r')
+# 1. Baixa a lista
+# 2. tr -d '\r' remove lixo de formatação Windows
+# 3. grep -E '^https?://' garante que a linha COMECE com http:// ou https://
+URLS=$(curl -s "$MASTER_LIST" | tr -d '\r' | grep -E '^https?://')
 
 if [ -z "$URLS" ]; then
-    echo "Erro: Não foi possível obter as URLs ou a lista está vazia."
+    echo "Erro: Nenhuma URL válida encontrada."
     exit 1
 fi
 
-echo "--- Iniciando PING sequencial (curl -I) ---"
+echo "--- Iniciando verificação sequencial ---"
 echo ""
 
-# Contador para organização
 count=0
-
 for url in $URLS
 do
-    # Pula linhas vazias se houver
-    [[ -z "$url" ]] && continue
-    
     ((count++))
     
-    # Executa o curl -I (apenas cabeçalho)
-    # --connect-timeout 5 serve para não travar o script se o site estiver morto
+    # Realiza o curl -I (apenas cabeçalho) com timeout de 5 segundos
     status=$(curl -o /dev/null -s -w "%{http_code}" -I --connect-timeout 5 "$url")
 
     if [ "$status" -eq 200 ]; then
-        echo "[$count] ✅ 200 OK      - $url"
-    elif [ "$status" -eq 301 ] || [ "$status" -eq 302 ]; then
-        echo "[$count] ↪️  $status REDIRECT - $url"
+        echo "[$count] ✅ 200 OK - $url"
     else
-        echo "[$count] ❌ $status ERROR    - $url"
+        echo "[$count] ❌ $status Erro ou Inativo - $url"
     fi
 done
 
