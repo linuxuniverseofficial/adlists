@@ -1,5 +1,6 @@
 
 >>> MUST HAVE <<<
+https://big.oisd.nl
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/abuse/urlhaus.abuse.ch/hostfile.fork.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/abuse/blocklistproject/hosts.fork.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/dead-domains/jarelllama/dead-domains.fork.txt
@@ -104,6 +105,7 @@ https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/head
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/gambling/sefinek.hosts.txt
 
 PORN:
+https://nsfw.oisd.nl
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/sefinek.hosts.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/sefinek.hosts2.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/4skinSkywalker/hosts.fork.txt
