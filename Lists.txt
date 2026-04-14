@@ -71,19 +71,6 @@ https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/head
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/yoyo/ads-trackers-etc.fork.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/DandelionSprout.GameConsoleAdblockList.txt
 
-EXTENSIONS:
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/r-a-y/AdguardMobileSpyware.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/FadeMind/add-2o7Net.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/MajkiIT/adguard-host.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/MajkiIT/easy-privacy-host.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList-Liste-FR.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/hagezi/pro.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/justdomains/adguarddns-justdomains.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/notracking/hostnames.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/oisd/big.fork.txt
-https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/r-a-y/AdguardApps.fork.txt
-
 TRCKING:
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/tracking-and-telemetry/MajkiIT/adguard-mobile-host.fork.txt
@@ -116,6 +103,19 @@ https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/head
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/porn/oisd/nsfw.fork.txt
 
 >>> OTHERS <<<
+
+EXTENSIONS:
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/r-a-y/AdguardMobileSpyware.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/FadeMind/add-2o7Net.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/MajkiIT/adguard-host.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/MajkiIT/easy-privacy-host.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList-Liste-FR.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/hagezi/pro.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/justdomains/adguarddns-justdomains.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/notracking/hostnames.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/oisd/big.fork.txt
+https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/extensions/r-a-y/AdguardApps.fork.txt
 
 SMARTV:
 https://raw.githubusercontent.com/sefinek/Sefinek-Blocklist-Collection/refs/heads/blocklists/generated/0.0.0.0/ads/MajkiIT/SmartTV-ads.fork.txt
